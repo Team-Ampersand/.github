@@ -8,5 +8,7 @@ GSM 통합 기숙사 관리 서비스 [Dotori](https://www.dotori-gsm.com/)를 �
 
 보다 나은 소프트웨어를 고객에게 제공하기위해 저희 팀 &mpersand는 끊임없는 연구와 발전에 힘쓰고 있습니다.
 
+> &mpersand 관련 프로젝트는 오픈소스이며 contribute를 환영하고있습니다.
+
 <img src="https://github.com/Team-Ampersand/Dotori-server-V2/raw/develop/assets/img/dotori_production.png" width=700 height=400px><img>
 
