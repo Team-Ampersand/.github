@@ -11,6 +11,10 @@ GSM 통합 기숙사 관리 서비스 [DOTORI](https://www.dotori-gsm.com/)를 �
 - [&mpersand Official](https://team-ampersand.vercel.app/)
 - [&mpersand Culture](https://ampersand-official.notion.site/mpersand-Team-Culture-9f5e6edec5664659af7d76ff541e7d4f?pvs=4)
 
+#### 운영중인 프로젝트
+- [DOTORI](https://www.dotori-gsm.com/)
+- [G무위키](https://www.gmuwiki.com/)
+
 > &mpersand 관련 프로젝트는 오픈소스이며 contribute를 환영하고있습니다.
 
 <img src="https://github.com/Team-Ampersand/Dotori-server-V2/raw/master/assets/img/dotori_production.png" width=700 height=400px><img>
