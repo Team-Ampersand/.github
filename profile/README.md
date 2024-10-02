@@ -17,8 +17,8 @@ GSM 통합 기숙사 관리 서비스 [DOTORI](https://www.dotori-gsm.com/)를 �
 - [DOTORI](https://www.dotori-gsm.com/)
 - [G무위키](https://www.gmuwiki.com/)
 
-> &mpersand 관련 프로젝트는 오픈소스이며 contribute를 환영하고있습니다.
-> Dotori V3는 Open Source가 아니며 private 환경에서 개발을 진행하고 있습니다.
+> &mpersand 관련 프로젝트는 오픈소스이며 contribute를 환영하고있습니다.  
+> Dotori V3는 Open Source가 아니며 private 환경에서 관리되고 있습니다.
 
 <img src="https://github.com/Team-Ampersand/Dotori-server-V2/raw/master/assets/img/dotori_production.png" width=700 height=400px><img>
 
